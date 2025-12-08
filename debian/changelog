@@ -1,4 +1,4 @@
-liburcu (0.15.2-2+pexip24u1) pexip; urgency=medium
+liburcu (0.15.2-2+pexip24u1) pexip-trixie; urgency=medium
 
   * Prepare Pexip packaging
 
